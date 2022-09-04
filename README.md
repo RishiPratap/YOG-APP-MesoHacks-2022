@@ -1,4 +1,4 @@
-# YOG A web-based ML based yoga posture correction app <img src=https://yog4u-a6eb6.web.app/static/media/logo.44c116309c3a1ecfc739.png height=120 width=200 align='right'>
+# YOG A web-based ML based yoga posture correction app. <img src=https://yog4u-a6eb6.web.app/static/media/logo.44c116309c3a1ecfc739.png height=120 width=200 align='right'>
 ![](https://img.shields.io/github/forks/RishiPratap/YOG-APP-MesoHacks-2022?color=green&style=for-the-badge)
 ![](https://img.shields.io/github/stars/RishiPratap/YOG-APP-MesoHacks-2022?color=blueviolet&style=for-the-badge)
 ![](https://img.shields.io/github/license/RishiPratap/YOG-APP-MesoHacks-2022?color=blue&style=for-the-badge)
